@@ -23,5 +23,7 @@ Take a look at the data visualization that developed thanks to this web scraping
 ## Packages Used
 
 {rvest} for web scraping
+
 {stringr} to parse and fix issues with addresses
+
 {dplyr} to construct data pipelines
