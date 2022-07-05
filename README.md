@@ -18,12 +18,10 @@ but was in a form not very condusive to such analysis. I was therefore prompted 
 Within this repository you'll find the .R file and the cleaned CSV from the cleaning pipelines created.
 
 Take a look at the data visualization that developed thanks to this web scraping project: 
-[ggplot2 Learn and Practice Blog Post](https://adam-bushman.com/project_posts/proj_ggplot2-learn-and-practice.html)
+[Sam's Club Location Geospatial Data Viz](https://github.com/adambushman/geospatial-analysis)
 
 ## Packages Used
 
 {rvest} for web scraping
 {stringr} to parse and fix issues with addresses
 {dplyr} to construct data pipelines
-
-[ggplot2 Learn and Practice Blog Post](https://adam-bushman.com/project_posts/proj_ggplot2-learn-and-practice.html)
